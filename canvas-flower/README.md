@@ -1,0 +1,2 @@
+- https://stackblitz.com/edit/petal-shape
+- https://www.freecodecamp.org/news/how-to-compose-canvas-animations-in-typescript-9368dfa29028/

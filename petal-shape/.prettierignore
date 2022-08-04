@@ -1,0 +1,8 @@
+styles/.sass-cache/**
+.gitkeep
+*ico
+.eslintignore
+.gitignore
+.prettierignore
+.stylelintignore
+yarn.lock
